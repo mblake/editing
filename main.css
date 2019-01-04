@@ -1,0 +1,19 @@
+body, html{font-family: 'Libre Baskerville', serif;background-color:#fffff0;}
+
+.marketing{margin-bottom:40px;}
+
+.marketing{min-height:100vh;}
+.jumbotron{background-image:url('./header.jpg');background-size:cover;}
+
+.jumbotron h1, .text-muted, h1, h2, h3{font-family: 'Charm', cursive !important;}
+
+h3{font-size:2.4em;}
+
+.subsection{margin-bottom:40px;}
+
+.jumbotron h1, .jumbotron p{color:#fff !important;text-shadow: 2px 2px #000;}
+.jumbotron .btn-success{    
+  background-color: #777 !important;
+  border: #777 !important;
+  background-image:none !important;
+}
